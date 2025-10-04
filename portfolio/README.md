@@ -27,4 +27,4 @@ This is a template for a web developer portfolio website using HTML, CSS, and Ja
 - Modify contact form logic in `assets/js/components/contact.js`.
 
 ## License
-This template is free to use and modify.
+This template is free to use and modify
